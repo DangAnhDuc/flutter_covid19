@@ -1,0 +1,1 @@
+const String newsApiKey = '2c70e2a8e4894a88bfabcf695f995a2e';
