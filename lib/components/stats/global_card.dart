@@ -42,7 +42,7 @@ class GlobalSituationCard extends StatelessWidget{
               BoxShadow(
                 color: Colors.black.withOpacity(0.18),
                 blurRadius: 20,
-                spreadRadius: 3.5,
+                spreadRadius: 4.0,
                 offset: Offset(0,13),
               )
             ]
